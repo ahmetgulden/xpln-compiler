@@ -1,0 +1,11 @@
+fun foo(param1, param2)
+	if param1 < 4 and param2 > 5 and !param1==param2
+		return 0;
+	else
+		return param1 / param2;	
+	endi;
+endf;
+
+result := foo(3, 6);
+
+output result;

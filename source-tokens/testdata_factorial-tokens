@@ -1,0 +1,1 @@
+(|fun| factorial |(| n |)|     num  |:=|  1 |;|    |while| n  |>=|  1       num  |:=|  num  |*|  n |;|    n  |:=|  n  |-|  1 |;|   |endw| |;|   |return| num |;|  |endf| |;|   result  |:=|  factorial |(| 4 |)|  |;|  |output| result |;|)

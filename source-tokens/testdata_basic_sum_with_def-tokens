@@ -1,0 +1,1 @@
+(num1  |:=|  3 |;|  num2  |:=|  5 |;|   |fun| sum |(| arg1 |,|  arg2 |)|      |return| arg1  |+|  arg2 |;|  |endf| |;|   result  |:=|  sum |(| num1 |,|  num2 |)|  |;|  |output| result |;|)
