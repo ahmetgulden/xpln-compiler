@@ -1,13 +1,9 @@
-Ceng444 - Assignment 2
-1902824
-Ahmet Sadık Gülden
-
 <b>Lexer Part</b>
 
 Lexer is written in swift programming language. Prebuilt lexer file can be found in directory. It is named  `lexer`.
 To lexify tokens in given xpln source code you can run below command.
 
-`lexer sourceFile > tokensFile`
+`lexer source > tokens`
 
 MacOS:
 Code can be inspected, new lexer can be built in MacOS using LexerProject/LexerProject.xcodeprof file.
@@ -23,9 +19,9 @@ Run below script. This will create a new lexer for given source code in main.swi
 <b>Parser and code generation</b>
 <ol>
 <li> yalalr
-<li> `(load "xpln-compiler")`
-<li> `(make-lalrparser)`
-<li> `(target-code-mips tokens t)`
+<li> (load "xpln-compiler")
+<li> (make-lalrparser)`
+<li> (target-code-mips "tokens" t)
 </ol>
 <b>Some notes</b>
 <ol>
