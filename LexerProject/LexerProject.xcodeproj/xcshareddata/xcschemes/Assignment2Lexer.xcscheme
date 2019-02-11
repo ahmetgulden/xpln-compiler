@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "05A052A921EFA38200B5BA6C"
-               BuildableName = "Assignment2Lexer"
-               BlueprintName = "Assignment2Lexer"
-               ReferencedContainer = "container:Assignment2Lexer.xcodeproj">
+               BuildableName = "LexerProject"
+               BlueprintName = "LexerProject"
+               ReferencedContainer = "container:LexerProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "05A052A921EFA38200B5BA6C"
-            BuildableName = "Assignment2Lexer"
-            BlueprintName = "Assignment2Lexer"
-            ReferencedContainer = "container:Assignment2Lexer.xcodeproj">
+            BuildableName = "LexerProject"
+            BlueprintName = "LexerProject"
+            ReferencedContainer = "container:LexerProject.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "05A052A921EFA38200B5BA6C"
-            BuildableName = "Assignment2Lexer"
-            BlueprintName = "Assignment2Lexer"
-            ReferencedContainer = "container:Assignment2Lexer.xcodeproj">
+            BuildableName = "LexerProject"
+            BlueprintName = "LexerProject"
+            ReferencedContainer = "container:LexerProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -81,9 +81,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "05A052A921EFA38200B5BA6C"
-            BuildableName = "Assignment2Lexer"
-            BlueprintName = "Assignment2Lexer"
-            ReferencedContainer = "container:Assignment2Lexer.xcodeproj">
+            BuildableName = "LexerProject"
+            BlueprintName = "LexerProject"
+            ReferencedContainer = "container:LexerProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

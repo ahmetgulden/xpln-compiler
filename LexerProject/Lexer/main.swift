@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  Assignment2Lexer
+//  LexerProject
 //
 //  Created by Ahmet Gülden on 16.01.2019.
 //  Copyright © 2019 Ahmet Gülden. All rights reserved.

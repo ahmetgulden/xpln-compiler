@@ -10,22 +10,22 @@ To lexify tokens in given xpln source code you can run below command.
 `lexer sourceFile > tokensFile`
 
 MacOS:
-Code can be inspected, new lexer can be built in MacOS using Assignment2Lexer/Assignment2Lexer.xcodeprof file.
+Code can be inspected, new lexer can be built in MacOS using LexerProject/LexerProject.xcodeprof file.
 
 Linux:
 You can download and install swift from here: <link>https://swift.org/getting-started/#installing-swift</link>
 
 Navigate to Lexer/ folder
-Run below script. this will create a new lexer for given source code in main.swift
+Run below script. This will create a new lexer for given source code in main.swift
 
 `swiftc main.swift -o lexer`
 
 <b>Parser and code generation</b>
 <ol>
 <li> yalalr
-<li> `(load "Assignment2")`
+<li> `(load "xpln-compiler")`
 <li> `(make-lalrparser)`
-<li> `(target-code-mips tokensFile t)`
+<li> `(target-code-mips tokens t)`
 </ol>
 <b>Some notes</b>
 <ol>

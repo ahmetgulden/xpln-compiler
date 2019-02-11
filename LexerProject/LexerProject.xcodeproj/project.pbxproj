@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		05A052AA21EFA38200B5BA6C /* Assignment2Lexer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Assignment2Lexer; sourceTree = BUILT_PRODUCTS_DIR; };
+		05A052AA21EFA38200B5BA6C /* LexerProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LexerProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		05A052AD21EFA38200B5BA6C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		05A052A121EFA38200B5BA6C = {
 			isa = PBXGroup;
 			children = (
-				05A052AC21EFA38200B5BA6C /* Assignment2Lexer */,
+				05A052AC21EFA38200B5BA6C /* Lexer */,
 				05A052AB21EFA38200B5BA6C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		05A052AB21EFA38200B5BA6C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				05A052AA21EFA38200B5BA6C /* Assignment2Lexer */,
+				05A052AA21EFA38200B5BA6C /* LexerProject */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		05A052AC21EFA38200B5BA6C /* Assignment2Lexer */ = {
+		05A052AC21EFA38200B5BA6C /* Lexer */ = {
 			isa = PBXGroup;
 			children = (
 				05A052AD21EFA38200B5BA6C /* main.swift */,
 			);
-			path = Assignment2Lexer;
+			path = Lexer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		05A052A921EFA38200B5BA6C /* Assignment2Lexer */ = {
+		05A052A921EFA38200B5BA6C /* LexerProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 05A052B121EFA38200B5BA6C /* Build configuration list for PBXNativeTarget "Assignment2Lexer" */;
+			buildConfigurationList = 05A052B121EFA38200B5BA6C /* Build configuration list for PBXNativeTarget "LexerProject" */;
 			buildPhases = (
 				05A052A621EFA38200B5BA6C /* Sources */,
 				05A052A721EFA38200B5BA6C /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Assignment2Lexer;
+			name = LexerProject;
 			productName = Assignment2Lexer;
-			productReference = 05A052AA21EFA38200B5BA6C /* Assignment2Lexer */;
+			productReference = 05A052AA21EFA38200B5BA6C /* LexerProject */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 05A052A521EFA38200B5BA6C /* Build configuration list for PBXProject "Assignment2Lexer" */;
+			buildConfigurationList = 05A052A521EFA38200B5BA6C /* Build configuration list for PBXProject "LexerProject" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				05A052A921EFA38200B5BA6C /* Assignment2Lexer */,
+				05A052A921EFA38200B5BA6C /* LexerProject */,
 			);
 		};
 /* End PBXProject section */
@@ -262,7 +262,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		05A052A521EFA38200B5BA6C /* Build configuration list for PBXProject "Assignment2Lexer" */ = {
+		05A052A521EFA38200B5BA6C /* Build configuration list for PBXProject "LexerProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05A052AF21EFA38200B5BA6C /* Debug */,
@@ -271,7 +271,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		05A052B121EFA38200B5BA6C /* Build configuration list for PBXNativeTarget "Assignment2Lexer" */ = {
+		05A052B121EFA38200B5BA6C /* Build configuration list for PBXNativeTarget "LexerProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				05A052B221EFA38200B5BA6C /* Debug */,
